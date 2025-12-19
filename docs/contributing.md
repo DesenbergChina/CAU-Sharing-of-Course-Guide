@@ -25,7 +25,7 @@
 
    b-2. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
 
-    > 例如，点击upload后，浏览器地址处会显示 `https://github.com/DesenbergChina/CAU-Sharing-of-Course-Guide/upload/main` 你需要在后面加上/高等数学，按下回车后地址会变成`https://github.com/DesenbergChina/CAU-Sharing-of-Course-Guide/upload/main/高等数学`
+    > 例如，点击upload后，浏览器地址处会显示 `https://github.com/DesenbergChina/CAU-Sharing-of-Course-Guide/upload/main` 你需要在后面加上`/理学/高等数学`，按下回车后地址会变成`https://github.com/DesenbergChina/CAU-Sharing-of-Course-Guide/upload/main/理学/高等数学`
 
    c.  (可选)添加一个`readme.md`文件，编写你的说明，上传到你的文件夹里面。
 
